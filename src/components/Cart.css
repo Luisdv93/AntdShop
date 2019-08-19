@@ -1,0 +1,20 @@
+.cart-icon {
+  font-size: 36px;
+  color: #8f3ae6;
+}
+
+.drawer-title {
+  color: #8f3ae6;
+  font-size: 21px;
+  font-weight: 700;
+  margin-top: 7px;
+}
+
+.drawer-title-icon {
+  font-size: 36px;
+  color: #8f3ae6;
+}
+
+.drawer-title-container {
+  margin-top: 20px;
+}
